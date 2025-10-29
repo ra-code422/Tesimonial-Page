@@ -14,6 +14,7 @@ body {
 
 .conteneur {
     width: 85vw;
+    padding: 20px;
 }
 
 .section1 {
@@ -151,6 +152,7 @@ body {
 .stars {
     color: #ffd700;
     font-size: 1.2rem;
+    margin-bottom: 20px;
 }
 
 .kina p,
